@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="234.95703125"
+     height="239.624755859375" viewBox="0 0 234.95703125 239.624755859375" fill="none">
+    <g opacity="1" transform="translate(0 0)" style="transform-origin: 50% 50%;">
+        <path id="形状" fill-rule="evenodd" fill="url(#outer_linear_0)" opacity="1"
+              d="M233.401 119.812C233.401 55.7903 181.501 3.89009 117.479 3.89009L117.479 2.33408C182.36 2.33408 234.957 54.9309 234.957 119.812L233.401 119.812ZM1.5563 119.812C1.5563 183.834 53.4565 235.735 117.479 235.735L117.479 237.291C52.5971 237.291 0.000298142 184.694 0.000298142 119.812L1.5563 119.812Z"></path>
+        <path id="椭圆形" fill-rule="evenodd" style="fill:#66FFFF" opacity="1"
+              d="M119.032 0C117.312 0 115.922 1.39 115.922 3.11C115.922 4.83 117.312 6.22 119.032 6.22C120.752 6.22 122.142 4.83 122.142 3.11C122.142 1.39 120.752 0 119.032 0Z"></path>
+        <path id="椭圆形" fill-rule="evenodd" style="fill:#66FFFF" opacity="1"
+              d="M119.032 233.401C117.312 233.401 115.922 234.791 115.922 236.511C115.922 238.231 117.312 239.621 119.032 239.621C120.752 239.621 122.142 238.231 122.142 236.511C122.142 234.791 120.752 233.401 119.032 233.401Z"></path>
+
+        <animateTransform
+                attributeName="transform"
+                attributeType="XML"
+                type="rotate"
+                from="360" to="0"
+                dur="5s" repeatCount="indefinite"/>
+    </g>
+    <defs>
+        <linearGradient id="outer_linear_0" x1="68.51440567265587%" y1="7.344806692215311%" x2="36.930133568851645%"
+                        y2="104.35004040594613%" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#4EE9E6" stop-opacity="1"/>
+            <stop offset="1" stop-color="#44D7B6" stop-opacity="1"/>
+        </linearGradient>
+    </defs>
+</svg>

@@ -1,0 +1,25 @@
+{
+  "name": "p2",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "less": "^4.2.0",
+    "less-loader": "^11.1.3",
+    "r-swiper": "^1.0.82",
+    "swiper": "^11.0.5",
+    "uuid": "^9.0.1",
+    "vue": "^3.3.4",
+    "vue3-seamless-scroll": "^2.0.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5"
+  }
+}

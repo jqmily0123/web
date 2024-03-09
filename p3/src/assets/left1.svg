@@ -1,0 +1,140 @@
+ <svg
+          xmlns="http://www.w3.org/2000/svg"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          width="440.10009765625"
+          height="503"
+          viewBox="0 0 440.10009765625 503"
+          fill="none"
+        >
+          <g opacity="1" transform="translate(0 0)  rotate(0)">
+            <g id="形状结合" filter="url(#filter_1)">
+              <path
+                id="形状结合"
+                fill-rule="evenodd"
+                style="fill: #02004d"
+                opacity="0.4"
+                d="M325.69,0.06799h104.15l10.16,25.23001v462.77c0,7.73 -6.27,14 -14,14h-412c-7.73,0 -14,-6.27 -14,-14v-462.77l10.87,-25.23001h104.54l13.47,35.06001h183.04z"
+              ></path>
+              <path
+                id="形状结合"
+                style="fill: #0d53b7; opacity: 1"
+                d="M311.92,37.128h-184.414l-13.963,-36.34273l1.867,-0.71728v2h-104.54v-2l1.8368,0.79135l-10.87002,25.22996l-1.83678,-0.7913h2v462.77c0,6.627 5.37258,12 12,12h412c6.627,0 12,-5.373 12,-12v-462.77h2l-1.855,0.7471l-10.16,-25.23002l1.855,-0.74709v2h-104.15v-2l1.862,0.73114l-14.269,36.32887zM311.92,33.128v2l-1.862,-0.7311l14.269,-36.32891h106.864l10.809,26.84241v463.1576c0,8.837 -7.163,16 -16,16h-412c-8.83655,0 -16,-7.163 -16,-16v-463.1825l11.55395,-26.81751h107.23005l13.963,36.34271l-1.867,0.7173v-2z"
+              ></path>
+            </g>
+            <path
+              id="路径 11"
+              fill-rule="evenodd"
+              fill="url(#linear_0)"
+              opacity="1"
+              d="M131.28 31.7435L308.7 31.7435L321.17 0.803467L119.5 0.803467L131.28 31.7435Z"
+            ></path>
+            <path
+              id="路径 3"
+              style="fill: url(#linear_1); opacity: 100"
+              d="M144.598,34.9225h150.902v3h-150.902z"
+            ></path>
+            <g opacity="1" transform="translate(139.699951171875 9)  rotate(0)">
+              <a xlink:href="https://" xlink:title="跳转" target="_blank">
+                <text>
+                  <tspan
+                    x="3.8499999999999943"
+                    y="16.240000000000002"
+                    font-size="14"
+                    line-height="0"
+                    fill="#19ECFF"
+                    opacity="1"
+                    font-family="SourceHanSansCN-Bold"
+                    font-weight="Bold"
+                    letter-spacing="0"
+                  >
+                    传感器实物图与连接方式
+                  </tspan>
+                </text>
+              </a>
+            </g>
+            <path
+              id="矩形"
+              fill-rule="evenodd"
+              style="fill: #0e5fff"
+              opacity="1"
+              d="M0 18.47L8.1 0L0 0L0 18.47Z"
+            ></path>
+            <path
+              id="矩形"
+              fill-rule="evenodd"
+              style="fill: #0e5fff"
+              opacity="1"
+              d="M432 0L440.1 18.47L440.1 0L432 0Z"
+            ></path>
+          </g>
+          <defs>
+            <filter
+              id="filter_1"
+              x="-34"
+              y="-33.9320068359375"
+              width="508"
+              height="570"
+              filterUnits="userSpaceOnUse"
+              color-interpolation-filters="sRGB"
+            >
+              <feFlood flood-opacity="0" result="feFloodId" />
+              <feColorMatrix
+                in="SourceAlpha"
+                type="matrix"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                result="hardAlpha"
+              />
+
+              <feOffset dx="0" dy="0" />
+              <feGaussianBlur stdDeviation="17" />
+              <feComposite
+                in2="hardAlpha"
+                operator="arithmetic"
+                k2="-1"
+                k3="1"
+              />
+              <feColorMatrix
+                type="matrix"
+                values="0 0 0 0 0.06666666666666667 0 0 0 0 0.1568627450980392 0 0 0 0 1 0 0 0 0.66 0"
+              />
+              <feBlend
+                mode="normal"
+                in2="filter_feFlood"
+                result="filter_feFlood_1"
+              />
+              <feBlend
+                mode="normal"
+                in="SourceGraphic"
+                in2="filter_1"
+                result="shape"
+              />
+            </filter>
+            <linearGradient
+              id="linear_0"
+              x1="50.000000000000014%"
+              y1="0%"
+              x2="50%"
+              y2="99.99999999999964%"
+              gradientUnits="objectBoundingBox"
+            >
+              <stop offset="0" stop-color="#0E5FFF" stop-opacity="1" />
+              <stop offset="1" stop-color="#1C00FF" stop-opacity="0" />
+            </linearGradient>
+            <linearGradient
+              id="linear_1"
+              x1="1.4843069596189196%"
+              y1="100%"
+              x2="98.27734787054285%"
+              y2="0%"
+              gradientUnits="objectBoundingBox"
+            >
+              <stop offset="0" stop-color="#00FFF4" stop-opacity="0" />
+              <stop
+                offset="0.5322509979034638"
+                stop-color="#00FFF4"
+                stop-opacity="1"
+              />
+              <stop offset="1" stop-color="#00FFF4" stop-opacity="0" />
+            </linearGradient>
+          </defs>
+        </svg>
